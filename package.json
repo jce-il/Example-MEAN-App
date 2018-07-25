@@ -39,7 +39,7 @@
     "send": "^0.9.3",
     "serve-static": "^1.6.5",
     "should": "^4.0.4",
-    "supertest": "^0.14.0",
+    "supertest": "^2.0.0",
     "type-is": "^1.5.7",
     "utils-merge": "^1.0.0",
     "vary": "^1.0.0",
