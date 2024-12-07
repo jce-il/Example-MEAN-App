@@ -16,7 +16,7 @@
     "ejs": "^1.0.0",
     "escape-html": "^1.0.1",
     "etag": "^1.4.0",
-    "express": "^4.12.3",
+    "express": "^4.21.2",
     "express-session": "^1.8.2",
     "finalhandler": "^0.2.0",
     "fresh": "^0.2.4",
